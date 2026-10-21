@@ -7,3 +7,5 @@ Git practice: learning commits, branches and remote repositories.
 Brahimmmmm
 
 imaddddddd
+
+Learning Git branches and merging.
